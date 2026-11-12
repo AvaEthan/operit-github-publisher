@@ -5,7 +5,7 @@
 - ToolPkg ID：`com.operit.github_publisher`
 - 版本：`2.0.1`
 - API：`2.0.0`
-- 安装包：[下载](https://github.com/AvaEthan/operit-github-publisher/releases/download/v2.0.1/gp2.toolpkg)
+- 安装包：[下载](https://github.com/AvaEthan/operit-github-publisher/releases/download/v2.0.1-sandbox/gp2.toolpkg)
 
 ## 安装
 
