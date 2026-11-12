@@ -1,11 +1,11 @@
-# gp2
+# GitHub 发布器 (Operit2)
 
+> 把已安装的 Skill / MCP 一键发布到 GitHub。Operit2 版改用平台原生数据源（skill/mcp CLI），内置 Token 配置与校验、仓库自动创建、文件并发推送与 Release 资产上传，并保留侧边栏控制台。
 
-
-- ToolPkg ID：`gp2`
-- 版本：`1.0.0`
+- ToolPkg ID：`com.operit.github_publisher`
+- 版本：`2.0.1`
 - API：`2.0.0`
-- 安装包：[下载](https://github.com/AvaEthan/operit-github-publisher/releases/download/v2.0.0/gp2.toolpkg)
+- 安装包：[下载](https://github.com/AvaEthan/operit-github-publisher/releases/download/v2.0.1/gp2.toolpkg)
 
 ## 安装
 
